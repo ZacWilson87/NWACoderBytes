@@ -12,7 +12,7 @@ A landing page for a local tech meetup, built with Vue 2, Vuetify 2, Notion API,
 
 1. Clone the repository:
 
-``` git clone https://github.com/yourusername/yourrepository.git ```
+``` git clone https://github.com/ZacWilson87/NWACoderBytes.git ```
 
 2. Change to the project directory:
 
